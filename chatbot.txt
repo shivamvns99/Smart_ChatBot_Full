@@ -1,0 +1,28 @@
+Organization : Ajay Kumar Garg Engineering College, Ghaziabad.
+
+Project : Smart Chatbot(beta  version).
+
+Developed by : Rishabh Maheshwari, Vicky Kumar, Shivam Singh.
+
+Details :
+
+Name : Rishabh Maheshwari,
+Contact : 7905925375,
+College : AKGEC,
+Role : BackEnd Developer,
+Designation : CXO,
+City :	Ghaziabad.
+
+Name : Vicky Kumar,
+Contact : 9155643523,
+College : AKGEC,
+Role : Database Developer,
+Designation : CTO,
+City :	Ghaziabad.
+
+Name : Shivam Singh,
+Contact : 7238932128,
+College : AKGEC,
+Role :	FrontEnd Developer,
+Designation : COO,
+City :	Ghaziabad.
